@@ -326,6 +326,10 @@
     [
       "a70b6d7d-99bd-40a0-9009-fac9fe2322d8",
       ""
+    ],
+    [
+      "eb7e8f73-2b44-4935-95d5-11943dc9f6a5",
+      "power_management"
     ]
   ],
   "text_variables": {}
