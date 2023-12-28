@@ -312,6 +312,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
@@ -330,6 +338,10 @@
     [
       "eb7e8f73-2b44-4935-95d5-11943dc9f6a5",
       "power_management"
+    ],
+    [
+      "08bb3808-80dc-469b-ac97-c92c75b34bfe",
+      "bldc_driver"
     ]
   ],
   "text_variables": {}
